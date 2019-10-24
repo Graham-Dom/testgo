@@ -2,10 +2,10 @@ package main
 
 import (
 	"log"
-	"github.com/Graham-Dom/testgo"
+	"github.com/Graham-Dom/testgo/module"
 )
 
 func main() {
 	log.Println("Hello World")
-	module.print_hello()
+	module.Print_hello()
 }
