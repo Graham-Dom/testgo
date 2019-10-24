@@ -2,7 +2,7 @@ package main
 
 import (
 	"log"
-	"module"
+	"github.com/Graham-Dom/testgo"
 )
 
 func main() {
